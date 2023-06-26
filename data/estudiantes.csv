@@ -1,3 +1,4 @@
-ID;Nombre;Universidad
-1;Ivonne;ESPE
-2;Tania; UTA
+ID,Nombre,Universidad
+1,Ivonne,ESPE
+2,Tania,UTA
+3,Camila,PUCE
